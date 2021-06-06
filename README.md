@@ -21,3 +21,5 @@ I'm passionate, organised, communication skills on the top, incredibly funny so 
 Please contact me if you have any needs, I can help you! :fist_right::fist_left:
 
 Abraço, Alex
+
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-david-798a633a/)
