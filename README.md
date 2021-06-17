@@ -8,8 +8,6 @@ Anyway, I'm currently helping a bunch of projects in my current main principal f
 
 My advice to you guys, interested in Vue.js (in 2021), DO IT, JUST DO IT ! So easy to learn and probably the top 1 front-end framework in the next months (At least in my heart).
 
-![Shia killed the game](https://media.giphy.com/media/87xihBthJ1DkA/giphy.gif)
-
 If you want to have my bio, and if it's 2025 you might check on wikipedia, LOL this guy is so arrogant. If we are in 2021, I'm freelance, multilingual :
  - **fr-FR**: the land where everything started back in 1989, and probably football World cup winners and European Champions at this time :frog:,
  - **en-GB**: I have a tear when I remember my awesome houseshare in the wonderful city of Oxford,
